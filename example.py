@@ -1,4 +1,4 @@
 def example():
-	print("merge conflict")
+	print("hello")
 	return
 
